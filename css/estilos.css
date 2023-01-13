@@ -1,0 +1,76 @@
+body{
+	/*background-image: url{"img/fondo.gif"}*/
+	background:grey;
+	
+}
+
+.header img
+{
+	width:10%;
+}
+.slider img
+{
+	width:100%;
+}
+.container
+{
+	border-radius:15px;
+	background:#99FF33;
+	width:100%;
+	margin:auto;
+}
+
+.row
+{
+	display:inline;
+	background:#99FF33;
+}
+
+.col
+{
+	display:inline-block;
+	width:30%;
+}
+
+.col h2
+{
+	
+}
+
+.col img
+{
+	text-align:center;
+}
+
+.top
+{
+	
+}
+
+
+
+.menu
+{
+	float:right;	
+}
+
+.menu li
+{
+	display:inline-block;
+		margin-right:20px;
+}
+
+.menu a:hover
+{
+	text-decoration:underline;
+	color:black;
+	padding:10px;
+	background:green;
+}
+…
+
+.footer
+{
+	
+}
+…
